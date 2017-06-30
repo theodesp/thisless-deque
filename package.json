@@ -1,0 +1,11 @@
+{
+  "name": "thisless-deque",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/theodesp/thisless-deque.git",
+  "author": "Theo <theo.despoudis@teckro.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
