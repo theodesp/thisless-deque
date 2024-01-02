@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/theodesp/thisless-deque.git",
-  "author": "Theo <theo.despoudis@teckro.com>",
+  "author": "Theo Despoudis",
   "license": "MIT",
   "scripts": {
     "start": "node index.js"
